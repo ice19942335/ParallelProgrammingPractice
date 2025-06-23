@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\RiderProjects\\ParallelProgrammingPractice\\ParallelProgrammingPractice\\WaitingForTimeToPass\\WaitingForTimeToPass.csproj": {}
+    "C:\\Users\\User\\RiderProjects\\ParallelProgrammingPractice\\WaitingForTimeToPass\\WaitingForTimeToPass.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\RiderProjects\\ParallelProgrammingPractice\\ParallelProgrammingPractice\\WaitingForTimeToPass\\WaitingForTimeToPass.csproj": {
+    "C:\\Users\\User\\RiderProjects\\ParallelProgrammingPractice\\WaitingForTimeToPass\\WaitingForTimeToPass.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\RiderProjects\\ParallelProgrammingPractice\\ParallelProgrammingPractice\\WaitingForTimeToPass\\WaitingForTimeToPass.csproj",
+        "projectUniqueName": "C:\\Users\\User\\RiderProjects\\ParallelProgrammingPractice\\WaitingForTimeToPass\\WaitingForTimeToPass.csproj",
         "projectName": "WaitingForTimeToPass",
-        "projectPath": "C:\\Users\\User\\RiderProjects\\ParallelProgrammingPractice\\ParallelProgrammingPractice\\WaitingForTimeToPass\\WaitingForTimeToPass.csproj",
+        "projectPath": "C:\\Users\\User\\RiderProjects\\ParallelProgrammingPractice\\WaitingForTimeToPass\\WaitingForTimeToPass.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\RiderProjects\\ParallelProgrammingPractice\\ParallelProgrammingPractice\\WaitingForTimeToPass\\obj\\",
+        "outputPath": "C:\\Users\\User\\RiderProjects\\ParallelProgrammingPractice\\WaitingForTimeToPass\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

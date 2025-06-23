@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\RiderProjects\\ParallelProgrammingPractice\\ParallelProgrammingPractice\\CancellingTasks\\CancellingTasks.csproj",
+      "projectUniqueName": "C:\\Users\\User\\RiderProjects\\ParallelProgrammingPractice\\CancellingTasks\\CancellingTasks.csproj",
       "projectName": "CancellingTasks",
-      "projectPath": "C:\\Users\\User\\RiderProjects\\ParallelProgrammingPractice\\ParallelProgrammingPractice\\CancellingTasks\\CancellingTasks.csproj",
+      "projectPath": "C:\\Users\\User\\RiderProjects\\ParallelProgrammingPractice\\CancellingTasks\\CancellingTasks.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\RiderProjects\\ParallelProgrammingPractice\\ParallelProgrammingPractice\\CancellingTasks\\obj\\",
+      "outputPath": "C:\\Users\\User\\RiderProjects\\ParallelProgrammingPractice\\CancellingTasks\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

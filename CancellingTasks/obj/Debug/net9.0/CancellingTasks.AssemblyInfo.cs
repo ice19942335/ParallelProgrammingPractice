@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CancellingTasks")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95f3b38c2c213849a8142eb22eff3c7be5ddf064")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d17b6b77e8fc26537c25e4acbdb2bfcc1454cb5d")]
 [assembly: System.Reflection.AssemblyProductAttribute("CancellingTasks")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CancellingTasks")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
