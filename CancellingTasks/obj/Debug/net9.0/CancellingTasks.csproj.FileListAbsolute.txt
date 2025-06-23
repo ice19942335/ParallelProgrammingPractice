@@ -1,0 +1,14 @@
+C:\Users\User\RiderProjects\ParallelProgrammingPractice\CancellingTasks\CancellingTasks\bin\Debug\net9.0\CancellingTasks.exe
+C:\Users\User\RiderProjects\ParallelProgrammingPractice\CancellingTasks\CancellingTasks\bin\Debug\net9.0\CancellingTasks.deps.json
+C:\Users\User\RiderProjects\ParallelProgrammingPractice\CancellingTasks\CancellingTasks\bin\Debug\net9.0\CancellingTasks.runtimeconfig.json
+C:\Users\User\RiderProjects\ParallelProgrammingPractice\CancellingTasks\CancellingTasks\bin\Debug\net9.0\CancellingTasks.dll
+C:\Users\User\RiderProjects\ParallelProgrammingPractice\CancellingTasks\CancellingTasks\bin\Debug\net9.0\CancellingTasks.pdb
+C:\Users\User\RiderProjects\ParallelProgrammingPractice\CancellingTasks\CancellingTasks\obj\Debug\net9.0\CancellingTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\ParallelProgrammingPractice\CancellingTasks\CancellingTasks\obj\Debug\net9.0\CancellingTasks.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\ParallelProgrammingPractice\CancellingTasks\CancellingTasks\obj\Debug\net9.0\CancellingTasks.AssemblyInfo.cs
+C:\Users\User\RiderProjects\ParallelProgrammingPractice\CancellingTasks\CancellingTasks\obj\Debug\net9.0\CancellingTasks.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\ParallelProgrammingPractice\CancellingTasks\CancellingTasks\obj\Debug\net9.0\CancellingTasks.dll
+C:\Users\User\RiderProjects\ParallelProgrammingPractice\CancellingTasks\CancellingTasks\obj\Debug\net9.0\refint\CancellingTasks.dll
+C:\Users\User\RiderProjects\ParallelProgrammingPractice\CancellingTasks\CancellingTasks\obj\Debug\net9.0\CancellingTasks.pdb
+C:\Users\User\RiderProjects\ParallelProgrammingPractice\CancellingTasks\CancellingTasks\obj\Debug\net9.0\CancellingTasks.genruntimeconfig.cache
+C:\Users\User\RiderProjects\ParallelProgrammingPractice\CancellingTasks\CancellingTasks\obj\Debug\net9.0\ref\CancellingTasks.dll
