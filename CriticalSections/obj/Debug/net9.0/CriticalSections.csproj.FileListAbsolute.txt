@@ -1,0 +1,15 @@
+C:\Users\User\RiderProjects\ParallelProgrammingPractice\CriticalSections\bin\Debug\net9.0\CriticalSections.exe
+C:\Users\User\RiderProjects\ParallelProgrammingPractice\CriticalSections\bin\Debug\net9.0\CriticalSections.deps.json
+C:\Users\User\RiderProjects\ParallelProgrammingPractice\CriticalSections\bin\Debug\net9.0\CriticalSections.runtimeconfig.json
+C:\Users\User\RiderProjects\ParallelProgrammingPractice\CriticalSections\bin\Debug\net9.0\CriticalSections.dll
+C:\Users\User\RiderProjects\ParallelProgrammingPractice\CriticalSections\bin\Debug\net9.0\CriticalSections.pdb
+C:\Users\User\RiderProjects\ParallelProgrammingPractice\CriticalSections\obj\Debug\net9.0\CriticalSections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\ParallelProgrammingPractice\CriticalSections\obj\Debug\net9.0\CriticalSections.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\ParallelProgrammingPractice\CriticalSections\obj\Debug\net9.0\CriticalSections.AssemblyInfo.cs
+C:\Users\User\RiderProjects\ParallelProgrammingPractice\CriticalSections\obj\Debug\net9.0\CriticalSections.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\ParallelProgrammingPractice\CriticalSections\obj\Debug\net9.0\CriticalSections.sourcelink.json
+C:\Users\User\RiderProjects\ParallelProgrammingPractice\CriticalSections\obj\Debug\net9.0\CriticalSections.dll
+C:\Users\User\RiderProjects\ParallelProgrammingPractice\CriticalSections\obj\Debug\net9.0\refint\CriticalSections.dll
+C:\Users\User\RiderProjects\ParallelProgrammingPractice\CriticalSections\obj\Debug\net9.0\CriticalSections.pdb
+C:\Users\User\RiderProjects\ParallelProgrammingPractice\CriticalSections\obj\Debug\net9.0\CriticalSections.genruntimeconfig.cache
+C:\Users\User\RiderProjects\ParallelProgrammingPractice\CriticalSections\obj\Debug\net9.0\ref\CriticalSections.dll

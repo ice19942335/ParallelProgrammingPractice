@@ -1,0 +1,15 @@
+C:\Users\User\RiderProjects\ParallelProgrammingPractice\InterlockedOperations\bin\Debug\net9.0\InterlockedOperations.exe
+C:\Users\User\RiderProjects\ParallelProgrammingPractice\InterlockedOperations\bin\Debug\net9.0\InterlockedOperations.deps.json
+C:\Users\User\RiderProjects\ParallelProgrammingPractice\InterlockedOperations\bin\Debug\net9.0\InterlockedOperations.runtimeconfig.json
+C:\Users\User\RiderProjects\ParallelProgrammingPractice\InterlockedOperations\bin\Debug\net9.0\InterlockedOperations.dll
+C:\Users\User\RiderProjects\ParallelProgrammingPractice\InterlockedOperations\bin\Debug\net9.0\InterlockedOperations.pdb
+C:\Users\User\RiderProjects\ParallelProgrammingPractice\InterlockedOperations\obj\Debug\net9.0\InterlockedOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\ParallelProgrammingPractice\InterlockedOperations\obj\Debug\net9.0\InterlockedOperations.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\ParallelProgrammingPractice\InterlockedOperations\obj\Debug\net9.0\InterlockedOperations.AssemblyInfo.cs
+C:\Users\User\RiderProjects\ParallelProgrammingPractice\InterlockedOperations\obj\Debug\net9.0\InterlockedOperations.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\ParallelProgrammingPractice\InterlockedOperations\obj\Debug\net9.0\InterlockedOperations.sourcelink.json
+C:\Users\User\RiderProjects\ParallelProgrammingPractice\InterlockedOperations\obj\Debug\net9.0\InterlockedOperations.dll
+C:\Users\User\RiderProjects\ParallelProgrammingPractice\InterlockedOperations\obj\Debug\net9.0\refint\InterlockedOperations.dll
+C:\Users\User\RiderProjects\ParallelProgrammingPractice\InterlockedOperations\obj\Debug\net9.0\InterlockedOperations.pdb
+C:\Users\User\RiderProjects\ParallelProgrammingPractice\InterlockedOperations\obj\Debug\net9.0\InterlockedOperations.genruntimeconfig.cache
+C:\Users\User\RiderProjects\ParallelProgrammingPractice\InterlockedOperations\obj\Debug\net9.0\ref\InterlockedOperations.dll

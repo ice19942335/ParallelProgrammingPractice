@@ -1,0 +1,15 @@
+C:\Users\User\RiderProjects\ParallelProgrammingPractice\SpinLockingAndLockRecursion\bin\Debug\net9.0\SpinLockingAndLockRecursion.exe
+C:\Users\User\RiderProjects\ParallelProgrammingPractice\SpinLockingAndLockRecursion\bin\Debug\net9.0\SpinLockingAndLockRecursion.deps.json
+C:\Users\User\RiderProjects\ParallelProgrammingPractice\SpinLockingAndLockRecursion\bin\Debug\net9.0\SpinLockingAndLockRecursion.runtimeconfig.json
+C:\Users\User\RiderProjects\ParallelProgrammingPractice\SpinLockingAndLockRecursion\bin\Debug\net9.0\SpinLockingAndLockRecursion.dll
+C:\Users\User\RiderProjects\ParallelProgrammingPractice\SpinLockingAndLockRecursion\bin\Debug\net9.0\SpinLockingAndLockRecursion.pdb
+C:\Users\User\RiderProjects\ParallelProgrammingPractice\SpinLockingAndLockRecursion\obj\Debug\net9.0\SpinLockingAndLockRecursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\ParallelProgrammingPractice\SpinLockingAndLockRecursion\obj\Debug\net9.0\SpinLockingAndLockRecursion.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\ParallelProgrammingPractice\SpinLockingAndLockRecursion\obj\Debug\net9.0\SpinLockingAndLockRecursion.AssemblyInfo.cs
+C:\Users\User\RiderProjects\ParallelProgrammingPractice\SpinLockingAndLockRecursion\obj\Debug\net9.0\SpinLockingAndLockRecursion.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\ParallelProgrammingPractice\SpinLockingAndLockRecursion\obj\Debug\net9.0\SpinLockingAndLockRecursion.sourcelink.json
+C:\Users\User\RiderProjects\ParallelProgrammingPractice\SpinLockingAndLockRecursion\obj\Debug\net9.0\SpinLockingAndLockRecursion.dll
+C:\Users\User\RiderProjects\ParallelProgrammingPractice\SpinLockingAndLockRecursion\obj\Debug\net9.0\refint\SpinLockingAndLockRecursion.dll
+C:\Users\User\RiderProjects\ParallelProgrammingPractice\SpinLockingAndLockRecursion\obj\Debug\net9.0\SpinLockingAndLockRecursion.pdb
+C:\Users\User\RiderProjects\ParallelProgrammingPractice\SpinLockingAndLockRecursion\obj\Debug\net9.0\SpinLockingAndLockRecursion.genruntimeconfig.cache
+C:\Users\User\RiderProjects\ParallelProgrammingPractice\SpinLockingAndLockRecursion\obj\Debug\net9.0\ref\SpinLockingAndLockRecursion.dll
