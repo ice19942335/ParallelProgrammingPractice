@@ -27,6 +27,9 @@ bld/
 # Rider cache/options directory
 .idea/
 
+.obj/
+.bin/
+
 # .NET Core
 project.lock.json
 project.fragment.lock.json
